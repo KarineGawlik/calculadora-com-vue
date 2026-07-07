@@ -1,29 +1,31 @@
-# calculadora-com-vue
+# Calculadora de Médias
 
-This template should help get you started developing with Vue 3 in Vite.
+Grade average calculator developed with Vue and Vite.
 
-## Recommended IDE Setup
+🔗 Live project: https://karine-projeto-calculadora-medias.vercel.app/
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Technologies
 
-## Customize configuration
+- Vue
+- Vite
+- JavaScript
+- HTML
+- CSS
+- Vercel
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Purpose
 
-## Project Setup
+This project was created to practice Vue components, form handling, reactive data and dynamic updates in the interface.
 
-```sh
-npm install
-```
+## Features
 
-### Compile and Hot-Reload for Development
+- Add activities and grades
+- Calculate final average
+- Show approval status
+- Dynamic table update
+- Deployed application with Vercel
 
-```sh
-npm run dev
-```
+## Contact
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+LinkedIn: https://www.linkedin.com/in/karine-gawlik-224939172  
+GitHub: https://github.com/KarineGawlik
